@@ -1,5 +1,7 @@
 # LinkedIn v2
 
+Cloned from : https://github.com/mdesjardins/linkedin-v2 - the only difference is that I try using a different version of mime types as the original one specified causes a build conflict for me
+
 ## WARNING: DANGER WILL ROBINSON
 
 This is very much a work in progress. Currently only the shares/social stream,
